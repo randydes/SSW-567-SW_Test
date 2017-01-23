@@ -1,0 +1,56 @@
+Side 0 equals   6.0
+Side 1 equals   6.0
+Side 2 equals   12.0
+we DO NOT have a valid triangle
+
+Side 0 equals   6.0
+Side 1 equals   6.0
+Side 2 equals   13.0
+we DO NOT have a valid triangle
+
+Side 0 equals   7.0
+Side 1 equals   7.0
+Side 2 equals   15.0
+we DO NOT have a valid triangle
+
+Side 0 equals   1.0
+Side 1 equals   1.0
+Side 2 equals   100.0
+we DO NOT have a valid triangle
+
+Side 0 equals   5.0
+Side 1 equals   5.0
+Side 2 equals   10.0
+we DO NOT have a valid triangle
+
+Side 0 equals   10.0
+Side 1 equals   5.0
+Side 2 equals   4.0
+we DO NOT have a valid triangle
+
+Side 0 equals   9.0
+Side 1 equals   9.0
+Side 2 equals   18.0
+we DO NOT have a valid triangle
+
+Side 0 equals   9.0
+Side 1 equals   9.0
+Side 2 equals   20.0
+we DO NOT have a valid triangle
+
+Side 0 equals   8.0
+Side 1 equals   8.0
+Side 2 equals   15.0
+We have a valid triangle
+This is an isosceles triangle
+
+Side 0 equals   7.0
+Side 1 equals   5.0
+Side 2 equals   13.0
+we DO NOT have a valid triangle
+
+Side 0 equals   2.0
+Side 1 equals   3.0
+Side 2 equals   6.0
+we DO NOT have a valid triangle
+

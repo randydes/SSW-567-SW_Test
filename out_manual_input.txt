@@ -1,0 +1,38 @@
+Side 0 equals   5.0
+Side 1 equals   4.0
+Side 2 equals   3.0
+We have a valid triangle
+This is a scalene triangle
+This is a right triangle
+
+Side 0 equals   1.0
+Side 1 equals   1.0
+Side 2 equals   1.0
+We have a valid triangle
+This is an isosceles triangle
+This is an equilateral triangle
+
+Side 0 equals   2.0
+Side 1 equals   2.0
+Side 2 equals   7.0
+we DO NOT have a valid triangle
+
+Side 0 equals   6.5
+Side 1 equals   5.5
+Side 2 equals   4.5
+We have a valid triangle
+This is a scalene triangle
+
+Side 0 equals   6.0
+Side 1 equals   6.0
+Side 2 equals   4.0
+We have a valid triangle
+This is an isosceles triangle
+
+Side 0 equals   10.0
+Side 1 equals   10.0
+Side 2 equals   10.0
+We have a valid triangle
+This is an isosceles triangle
+This is an equilateral triangle
+

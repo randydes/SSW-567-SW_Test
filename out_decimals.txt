@@ -1,0 +1,42 @@
+Side 0 equals   8.19999980927
+Side 1 equals   6.19999980927
+Side 2 equals   5.19999980927
+We have a valid triangle
+This is a scalene triangle
+
+Side 0 equals   7.09999990463
+Side 1 equals   8.10000038147
+Side 2 equals   9.10000038147
+We have a valid triangle
+This is a scalene triangle
+
+Side 0 equals   10.3000001907
+Side 1 equals   5.30000019073
+Side 2 equals   8.30000019073
+We have a valid triangle
+This is a scalene triangle
+
+Side 0 equals   9.39999961853
+Side 1 equals   8.39999961853
+Side 2 equals   6.40000009537
+We have a valid triangle
+This is a scalene triangle
+
+Side 0 equals   3.5
+Side 1 equals   7.5
+Side 2 equals   5.5
+We have a valid triangle
+This is a scalene triangle
+
+Side 0 equals   9.60000038147
+Side 1 equals   7.59999990463
+Side 2 equals   12.6000003815
+We have a valid triangle
+This is a scalene triangle
+
+Side 0 equals   3.70000004768
+Side 1 equals   5.69999980927
+Side 2 equals   4.69999980927
+We have a valid triangle
+This is a scalene triangle
+
